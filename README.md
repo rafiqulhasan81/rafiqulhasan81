@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Rafiqul Hasan - Full Stack Web Developer" />
+</p>
+
 # Hi, I'm Rafiqul Hasan 👋
 
 ### Full-Stack Web Developer | React & Next.js Learner | Editorial Designer
